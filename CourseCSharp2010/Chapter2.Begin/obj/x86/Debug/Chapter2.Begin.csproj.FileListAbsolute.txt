@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter2.Begin\bin\Debug\Chapter2.Begin.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter2.Begin\bin\Debug\Chapter2.Begin.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter2.Begin\obj\x86\Debug\Chapter2.Begin.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter2.Begin\obj\x86\Debug\Chapter2.Begin.pdb

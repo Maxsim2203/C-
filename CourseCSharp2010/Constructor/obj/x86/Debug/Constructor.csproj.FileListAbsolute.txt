@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\CourseCSharp2010\Constructor\bin\Debug\Constructor.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Constructor\bin\Debug\Constructor.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\Constructor\obj\x86\Debug\Constructor.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Constructor\obj\x86\Debug\Constructor.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\Constructor\obj\x86\Debug\Constructor.csprojResolveAssemblyReference.cache

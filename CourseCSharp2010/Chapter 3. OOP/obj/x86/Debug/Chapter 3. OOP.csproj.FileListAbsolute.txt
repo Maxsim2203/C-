@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter 3. OOP\bin\Debug\Chapter_3.OOP.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter 3. OOP\bin\Debug\Chapter_3.OOP.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter 3. OOP\obj\x86\Debug\Chapter_3.OOP.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter 3. OOP\obj\x86\Debug\Chapter_3.OOP.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\Chapter 3. OOP\obj\x86\Debug\Chapter 3. OOP.csprojResolveAssemblyReference.cache

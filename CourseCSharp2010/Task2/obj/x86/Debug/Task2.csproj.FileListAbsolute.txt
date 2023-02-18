@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\CourseCSharp2010\Task2\bin\Debug\Task2.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Task2\bin\Debug\Task2.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\Task2\obj\x86\Debug\Task2.exe
+C:\Users\admin\Desktop\CourseCSharp2010\Task2\obj\x86\Debug\Task2.pdb

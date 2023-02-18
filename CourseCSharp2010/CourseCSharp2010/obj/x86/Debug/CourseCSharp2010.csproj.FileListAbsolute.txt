@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\CourseCSharp2010\CourseCSharp2010\bin\Debug\CourseCSharp2010.exe
+C:\Users\admin\Desktop\CourseCSharp2010\CourseCSharp2010\bin\Debug\CourseCSharp2010.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\CourseCSharp2010\obj\x86\Debug\CourseCSharp2010.exe
+C:\Users\admin\Desktop\CourseCSharp2010\CourseCSharp2010\obj\x86\Debug\CourseCSharp2010.pdb
+C:\Users\admin\Desktop\CourseCSharp2010\CourseCSharp2010\obj\x86\Debug\CourseCSharp2010.csprojResolveAssemblyReference.cache

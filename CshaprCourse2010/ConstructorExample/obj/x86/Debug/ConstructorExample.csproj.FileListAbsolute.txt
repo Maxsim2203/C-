@@ -1,4 +1,0 @@
-C:\Users\user\Desktop\CshaprCourse2010\ConstructorExample\bin\Debug\ConstructorExample.exe
-C:\Users\user\Desktop\CshaprCourse2010\ConstructorExample\bin\Debug\ConstructorExample.pdb
-C:\Users\user\Desktop\CshaprCourse2010\ConstructorExample\obj\x86\Debug\ConstructorExample.exe
-C:\Users\user\Desktop\CshaprCourse2010\ConstructorExample\obj\x86\Debug\ConstructorExample.pdb
